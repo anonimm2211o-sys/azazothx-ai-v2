@@ -1,0 +1,9 @@
+{
+  "name": "azazothx",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AZAZOTHX AI — chat AI tanpa login, tema ungu gelap occult/terminal.",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
